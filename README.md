@@ -17,3 +17,5 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 3. App1 - TextView Example
 4. App2 - Buttons Example
 
+# For questions
+Reach me on LinkedIn (<a href="https://linkedin.com/in/MadhuPIoT">Maddy)
