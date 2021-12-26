@@ -17,20 +17,20 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 3. App1 - TextView Example
 4. App2 -  Toast Example
 
-<b>Day - 2</b>
-5. App3 - Button Example
-6. App4 - Button TextView Example
-7. App5 - Image View Example
-8. App6 - Radio Button Example
-9. App7 - Check Box Example
+<b>Day - 2</b> <br/>
+5. App3 - Button Example <br/>
+6. App4 - Button TextView Example <br/>
+7. App5 - Image View Example <br/>
+8. App6 - Radio Button Example <br/>
+9. App7 - Check Box Example <br/>
 
 <b>Day - 3</b>
-10. App8 - Toggle Button Example
-11. App9 - Webview Example
-12. App10 - Call Telephony Example
-13. App11 - Dynamic Telephony Example
-14. App12 - Static Message Example
-15. App13 - Dynamic Message Example
+10. App8 - Toggle Button Example <br/>
+11. App9 - Webview Example <br/>
+12. App10 - Call Telephony Example <br/>
+13. App11 - Dynamic Telephony Example <br/>
+14. App12 - Static Message Example <br/>
+15. App13 - Dynamic Message Example <br/>
 
 
 # For questions
